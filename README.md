@@ -1,6 +1,5 @@
 # Tadawy-SC
-
-A new Flutter project.
+Tadawi has a high-level vision focusing on achieving comprehensive and equitable healthcare, promoting health awareness, and fostering collaboration among various partners to enhance sustainable development goals in the healthcare sector.
 
 ## Getting Started
 
