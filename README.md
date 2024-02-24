@@ -13,10 +13,10 @@ git clone https://github.com/Mohamed0Haikel/Tadawy-SC.git
 flutter pub get
 
 #### Running the Project:
-for android
+for android:
 flutter run
 
-for ios 
+for ios: 
 flutter run -d ios
 
 For help getting started with Flutter development, view the
